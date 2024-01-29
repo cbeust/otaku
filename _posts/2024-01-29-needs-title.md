@@ -13,8 +13,8 @@ fn f(&self) -> u8 {
 }
 ```
 
+Video:
 
-
-https://github.com/cbeust/otaku/assets/92322/a32f27e2-c67b-4f60-ba5d-21d332c81b69
+https://github.com/cbeust/otaku/assets/92322/032ede71-066a-4ddf-a9a1-f2dc7cd519a0
 
 
