@@ -15,6 +15,8 @@ fn f(&self) -> u8 {
 
 Video:
 
-https://github.com/cbeust/otaku/assets/92322/032ede71-066a-4ddf-a9a1-f2dc7cd519a0
+[Video](https://github.com/cbeust/otaku/assets/92322/032ede71-066a-4ddf-a9a1-f2dc7cd519a0)
+
+
 
 
